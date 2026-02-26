@@ -34,12 +34,6 @@
 
 ## 🚀 Live Demo
 
-<p align="center">
-  <a href="https://your-live-demo-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/View-Live%20Demo-blue?style=for-the-badge"/>
-  </a>
-</p>
-
 👉 **Direct Link:** https://arnav-sirkhal.github.io/to-do-list-js/
 
 ---
