@@ -123,7 +123,7 @@ listContainer.innerHTML = localStorage.getItem("data");
 ## 📂 Project Structure
 
 ```
-To-Do-List/
+to-do-list-js/
 │
 ├── images/
 │   ├── checked.png
