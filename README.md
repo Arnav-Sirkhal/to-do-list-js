@@ -134,6 +134,7 @@ to-do-list-js/
 ├── index.html
 ├── style.css
 ├── script.js
+├── LICENSE
 └── README.md
 ```
 
