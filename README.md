@@ -34,7 +34,7 @@
 
 ## 🚀 Live Demo
 
-👉 **Direct Link:** https://arnav-sirkhal.github.io/to-do-list-js/
+👉 **Direct Link:** https://to-do-list-js-ivory.vercel.app/
 
 ---
 
